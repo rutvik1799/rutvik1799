@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS machine learning**
 
-- 💬 Ask me about **HTML, Javascript, React,**
+- 💬 Ask me about **HTML, Javascript, React, Node js, GO, Rust. Ruby**
 
 - 📫 How to reach me **rutvik.raj11399@gmail.com**
 
